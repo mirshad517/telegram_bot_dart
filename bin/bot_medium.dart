@@ -5,7 +5,7 @@ import 'package:teledart/teledart.dart';
 import 'package:teledart/telegram.dart';
 import 'dart:io' as io;
 
-const telegramApiKey = '5078492345:AAHtfiBVyXCvHTsX-MoUcGiFuy_Qdxi_a6A';
+const telegramApiKey = '5681916697:AAFtT0gosvbXn0KCoCUvO3RBvIFOlp1bgyg';
 
 Future<void> main() async {
 
